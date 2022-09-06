@@ -1,0 +1,29 @@
+.reccard{
+  width: 300px;
+  height: 450px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.6);
+  justify-content: space-between;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+.picture{
+  width: 300px;
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+img{
+width: 300px;
+height: 300px;
+margin-bottom: 10px;
+ }
+
+ .recipeheader{
+  font-size: 24px;
+ }
